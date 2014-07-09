@@ -1,0 +1,22 @@
+.portfolio-item {
+	font-size: 24px;
+	text-align: center;
+	color: #FFF;
+
+	a {
+		color: #FFF;
+	}
+
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+	height: 200px
+}
+
+#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+	height: 200px;
+}
+
+#portfolio .portfolio-item .portfolio-link {
+	color: #FFF;
+}
